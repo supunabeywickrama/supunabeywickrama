@@ -1,8 +1,8 @@
 <!-- Header banner (auto adjust light / dark) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:7f00ff&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B%20I%27m%20Supun%20Abeywickrama&fontSize=42&fontAlignY=35&fontColor=ffffff">
-    <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:ffcc00&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B%20I%27m%20Supun%20Abeywickrama&fontSize=42&fontAlignY=35&fontColor=111111">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0%3A00e5ff%2C100%3A7f00ff&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B%20I%27m%20Supun%20Abeywickrama&fontSize=42&fontAlignY=35&fontColor=ffffff">
+    <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7f00ff%2C100%3Affcc00&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B%20I%27m%20Supun%20Abeywickrama&fontSize=42&fontAlignY=35&fontColor=111111">
   </picture>
 </p>
 
@@ -16,7 +16,7 @@
 
 <!-- Animated job ticks (alternating) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=%F0%9F%A7%A0+AI+%26+ML+Engineering;%F0%9F%A4%96+Robotics+Engineering;%F0%9F%92%BB+Embedded+System+Engineering;%F0%9F%A6%BE+Automation+Engineering;%F0%9F%8C%90+IoT+Specialist;%F0%9F%91%81+Computer+Vision+Engineering" alt="Alternating roles">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=%F0%9F%A7%A0+AI+%26+ML+Engineering%3B%F0%9F%A4%96+Robotics+Engineering%3B%F0%9F%92%BB+Embedded+System+Engineering%3B%F0%9F%A6%BE+Automation+Engineering%3B%F0%9F%8C%90+IoT+Specialist%3B%F0%9F%91%81+Computer+Vision+Engineering" alt="Alternating roles">
 </p>
 
 
@@ -172,7 +172,7 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=supunabeywickrama&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=supunabeywickrama&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak Stats" />
 </p>
 
 <div align="center">
