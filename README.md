@@ -1,7 +1,7 @@
 <!-- Header banner (auto adjust light / dark) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0%3A00e5ff%2C100%3A7f00ff&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B%20I%27m%20Supun%20Abeywickrama&fontSize=42&fontAlignY=35&fontColor=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0%3A00e5ff%2C100%3A7f00ff&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B%20I%27m%20Supun%20Tharaka&fontSize=42&fontAlignY=35&fontColor=ffffff">
     <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7f00ff%2C100%3Affcc00&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B%20I%27m%20Supun%20Abeywickrama&fontSize=42&fontAlignY=35&fontColor=111111">
   </picture>
 </p>
