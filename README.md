@@ -33,83 +33,95 @@
 
 ## 🧰 Tech Stack
 
-### 🧠 AI, ML & NLP
-<p align="left">
-  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM%20Chatbot-ff00ff?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector%20Memory-0f0f0f?style=for-the-badge&logo=qdrant&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Whisper-111111?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Autoencoders-8A2BE2?style=for-the-badge&logo=keras&logoColor=white"/>
-</p>
-
-### 👁️ Computer Vision & Processing
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/YOLOv8%2F11%2F12-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SAHI-ffbb00?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SAM-0b42f5?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DINOv3-f50b42?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Real--ESRGAN-42f50b?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OCR-0B5?style=for-the-badge&logo=tesseract&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pi%20Camera-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge"/>
-</p>
-
-### 💻 Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C%2FC++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge"/>
-</p>
-
-### ☁️ Cloud, Databases & Auth
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/pgvector-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OIDC%2FOAuth2-EB5424?logo=auth0&logoColor=white&style=for-the-badge"/>
-</p>
-
-### 🔌 Hardware, IoT & Embedded
-<p align="left">
-  <img src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LoRa-8A2BE2?style=for-the-badge&logo=lora&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Edge%20Impulse-000000?logo=edge-impulse&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Edge%20AI-2c3e50?style=for-the-badge&logo=edge-impulse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded%20C-0057B8?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
-
-### ⚙️ Automation
-<p align="left">
-  <img src="https://img.shields.io/badge/Mitsubishi%20PLC-E60012?logo=mitsubishi&logoColor=white&style=for-the-badge"/>
-</p>
-
-### 🛠️ Tools, Libraries & OS
-<p align="left">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RPA-000000?logo=uipath&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AutoCAD-0696D7?logo=autodesk&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Fusion%20360-F37021?logo=autodesk&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SolidWorks-E32526?logo=dassault-systemes&logoColor=white&style=for-the-badge"/>
-</p>
+<table align="center" border="1" cellpadding="15">
+  <tr align="center">
+    <!-- Languages & Frameworks -->
+    <td width="50%" valign="top">
+      <h3>💻 Languages & Frameworks</h3>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,react,flutter,fastapi" />
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+    </td>
+    <!-- Computer Vision -->
+    <td width="50%" valign="top">
+      <h3>👁️ Computer Vision & Processing</h3>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=opencv" />
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/YOLOv8%2F11%2F12-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black"/>
+      <img src="https://img.shields.io/badge/MediaPipe-005C8A?style=for-the-badge&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SAHI-ffbb00?style=for-the-badge&logo=python&logoColor=black"/>
+      <img src="https://img.shields.io/badge/SAM-0b42f5?style=for-the-badge&logo=meta&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DINOv3-f50b42?style=for-the-badge&logo=meta&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Real--ESRGAN-42f50b?style=for-the-badge&logo=python&logoColor=black"/>
+      <img src="https://img.shields.io/badge/OCR-0B5?style=for-the-badge&logo=tesseract&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Pi%20Camera-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr align="center">
+    <!-- AI & NLP -->
+    <td width="50%" valign="top">
+      <h3>🧠 AI, ML & NLP</h3>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LLM%20Chatbot-ff00ff?style=for-the-badge&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vector%20Memory-0f0f0f?style=for-the-badge&logo=qdrant&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Whisper-111111?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Autoencoders-8A2BE2?style=for-the-badge&logo=keras&logoColor=white"/>
+    </td>
+    <!-- Cloud & DB -->
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud, Databases & Auth</h3>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,postgres,mysql,firebase" />
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/pgvector-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/OIDC%2FOAuth2-EB5424?logo=auth0&logoColor=white&style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr align="center">
+    <!-- Hardware & IoT -->
+    <td width="50%" valign="top">
+      <h3>🔌 Hardware, IoT & Embedded</h3>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/LoRa-8A2BE2?style=for-the-badge&logo=lora&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Edge%20Impulse-000000?logo=edge-impulse&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Edge%20AI-2c3e50?style=for-the-badge&logo=edge-impulse&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Embedded%20C-0057B8?style=for-the-badge&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Mitsubishi%20PLC-E60012?logo=mitsubishi&logoColor=white&style=for-the-badge"/>
+    </td>
+    <!-- Tools -->
+    <td width="50%" valign="top">
+      <h3>🛠️ Tools, Libraries & OS</h3>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ubuntu,linux,docker,ros,github,matlab" />
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/AutoCAD-0696D7?logo=autodesk&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Fusion%20360-F37021?logo=autodesk&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/SolidWorks-E32526?logo=dassault-systemes&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/RPA-000000?logo=uipath&logoColor=white&style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
