@@ -54,11 +54,15 @@
       </a>
       <br /><br />
       <img src="https://img.shields.io/badge/YOLOv8%2F11%2F12-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black"/>
+      <img src="https://img.shields.io/badge/YOLOv8--DocLayNet-1f6feb?style=for-the-badge&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/MediaPipe-005C8A?style=for-the-badge&logo=google&logoColor=white"/>
       <img src="https://img.shields.io/badge/SAHI-ffbb00?style=for-the-badge&logo=python&logoColor=black"/>
       <img src="https://img.shields.io/badge/SAM-0b42f5?style=for-the-badge&logo=meta&logoColor=white"/>
       <img src="https://img.shields.io/badge/DINOv3-f50b42?style=for-the-badge&logo=meta&logoColor=white"/>
       <img src="https://img.shields.io/badge/Real--ESRGAN-42f50b?style=for-the-badge&logo=python&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Video%20Tracking-0a7ea4?style=for-the-badge&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VLM-6f42c1?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Multimodal%20Embedding-374151?style=for-the-badge&logo=qdrant&logoColor=white"/>
       <img src="https://img.shields.io/badge/OCR-0B5?style=for-the-badge&logo=tesseract&logoColor=black"/>
       <img src="https://img.shields.io/badge/Pi%20Camera-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge"/>
     </td>
@@ -74,9 +78,15 @@
       <br /><br />
       <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/LLM%20Chatbot-ff00ff?style=for-the-badge&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Multi--Agent-4c1d95?style=for-the-badge&logo=semanticweb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-1f2937?style=for-the-badge&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vector%20Memory-0f0f0f?style=for-the-badge&logo=qdrant&logoColor=white"/>
       <img src="https://img.shields.io/badge/Whisper-111111?style=for-the-badge&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Autoencoders-8A2BE2?style=for-the-badge&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
     </td>
     <!-- Cloud & DB -->
     <td width="50%" valign="top">
@@ -86,6 +96,7 @@
         <img src="https://skillicons.dev/icons?i=aws,postgres,mysql,firebase" />
       </a>
       <br /><br />
+      <img src="https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/pgvector-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/OIDC%2FOAuth2-EB5424?logo=auth0&logoColor=white&style=for-the-badge"/>
     </td>
@@ -104,6 +115,8 @@
       <img src="https://img.shields.io/badge/Edge%20Impulse-000000?logo=edge-impulse&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Edge%20AI-2c3e50?style=for-the-badge&logo=edge-impulse&logoColor=white"/>
       <img src="https://img.shields.io/badge/Embedded%20C-0057B8?style=for-the-badge&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HMI%20Design-2563eb?style=for-the-badge&logo=siemens&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ladder%20Logic-15803d?style=for-the-badge&logo=plcnext&logoColor=white"/>
       <img src="https://img.shields.io/badge/Mitsubishi%20PLC-E60012?logo=mitsubishi&logoColor=white&style=for-the-badge"/>
     </td>
     <!-- Tools -->
@@ -119,72 +132,26 @@
       <img src="https://img.shields.io/badge/Fusion%20360-F37021?logo=autodesk&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/SolidWorks-E32526?logo=dassault-systemes&logoColor=white&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/RPA-000000?logo=uipath&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/UiPath-FE5000?logo=uipath&logoColor=white&style=for-the-badge"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧠 ML & CV Focus
+## 🧠 AI/ML & CV Focus
 
 - 🔎 **Detection & Classification** — YOLOv8, Faster R-CNN, OpenCV  
 - 🧾 **Text & OCR** — Tesseract, EasyOCR, custom post-processing  
 - 🎥 **Image/Video** — augmentation, illumination handling, defect analysis  
+- 🎯 **Tracking & Video Analytics** — temporal tracking, frame-level logic, analytics overlays  
 - ⚡ **Optimization** — quantization, pruning, ONNX/TensorRT for real-time  
+- 🧠 **LLM & Agentic AI** — RAG, LangGraph, multi-agent orchestration, prompt engineering  
+- 🌐 **Multimodal/VLM** — YOLOv8-DocLayNet, vision-language workflows, multimodal embeddings  
 - 🛠 **Hardware Integration** — ESP32/edge, Jetson/RPi, PLC comms  
 - 🖐️ **Human pose/hand** — MediaPipe pipelines & calibration UIs  
 
 ---
-
-## 🔥 Featured Projects
-
-- 🧠💙 **MindPath – AI Depression Support Platform**  
-  AI-powered mental wellness platform featuring journaling, mood analytics, habit building, and an empathetic virtual assistant (Sela). Includes RAG-based memory (pgvector) for personalized support and safety guardrails with crisis detection.  
-  *Tech:* `React (Vite)` `TypeScript` `FastAPI` `PostgreSQL` `pgvector` `OpenAI` `OIDC/OAuth2` `WebSockets`
-
-- 🫖 **Tea Packaging Defect Inspector**  
-  Real-time defect detection for tea packets (leaks, seal gaps, misprints). PLC-ready reject logic, OCR for date/lot codes.  
-  *Tech:* `Python` `YOLOv8` `OpenCV` `Tesseract` `PLC` `ESP32`
-
-- 🪪 **License Plate Blurring + OCR Pipeline**  
-  Privacy-first video pipeline: YOLO detection, tracking/debounce, OCR, clarity scoring, selective blur, analytics, CSV/JSON exports.  
-  *Tech:* `Ultralytics YOLO` `OpenCV` `supervision` `FastAPI` (planned)
-
-- ✋ **Finger Ability Tracking & Rehab Metrics**  
-  MediaPipe-based 21-landmark tracking with **calibration to 0–100%** (neutral ↔ max), clamped UI for out-of-range values, per-digit graphs.  
-  *Tech:* `MediaPipe` `OpenCV` `NumPy` `Python`
-
-- 🏠 **Digital Twin Smart Home (Flutter)**  
-  Device tiles (switches, sensors), alerts feed (e.g., “Bedroom Light ON”), **project-centric overview** (see *Projects Hub* below), and room cards with temps/setpoints.  
-  *Tech:* `Flutter` `Dart`
-
-- 🎭 **Facial Landmark 3D Projection**  
-  Real-time 2D→3D mapping + Blender/Matplotlib visualization.  
-  *Tech:* `Mediapipe` `OpenCV` `Blender`
-
-*Explore more of my work in my **[GitHub Repositories](https://github.com/supunabeywickrama?tab=repositories)**!*
-
----
-
-
-
-## 📚 Research & Learning (Tea + CV)
-
-- **AI-Driven Tea Package Defect Detection – Concept Notes**  
-  - Defect taxonomy: *seal gap, tear, underfill, misprint, date/lot OCR fail*  
-  - Pipeline: capture → pre-proc → detection (YOLOv8) → OCR → PLC signal (reject)  
-  - Metrics: **FP/FN**, **read rate**, **throughput @ latency budget**, **MTBF**  
-  - Edge concerns: lighting normalization, motion blur, exposure control  
-  - Future: few-shot adaptation per SKU, synthetic data for rare defects
-
-- **Tooling**  
-  - Labeling: Roboflow/Label Studio  
-  - Training: PyTorch/Ultralytics, augmentation recipes  
-  - Export: ONNX/TensorRT (where applicable)  
-  - HIL tests: looped conveyor footage + threshold sweeps
-
----
-
 
 ## 📈 GitHub Stats & Activity
 
