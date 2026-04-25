@@ -178,12 +178,6 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=supunabeywickrama&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-<br/>
-
-<p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=supunabeywickrama&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   &nbsp;&nbsp;
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supunabeywickrama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
