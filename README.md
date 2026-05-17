@@ -28,10 +28,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Undergraduate in **B.Sc (Hons) Electronics & Computer Science** at *University of Kelaniya*  
-- 🤖 Passionate about **AI/ML, Computer Vision, Robotics, Embedded AI, and IoT**  
-- ⚡ I deploy intelligence **from cloud to edge**: microcontrollers, sensors, on-device inference, and real-time dashboards  
-- 🏊‍♂️ Outside tech: **National Swimmer**  
+**AI / ML Engineer** specializing in Computer Vision and Agentic AI, currently completing a B.Sc (Hons) in Electronics & Computer Science at the University of Kelaniya.
+
+I build end-to-end intelligent systems — from training custom detectors and anomaly models to orchestrating multi-agent LLM pipelines and deploying them at scale. My research spans **IEEE-published work on Agentic Generative AI for Predictive Maintenance** (accepted at IEEE IRAI 2026, Melbourne) and ongoing university research on **real-time AI-driven packaging defect detection** with PLC-integrated industrial reject systems. On the project side, I've shipped full-stack AI applications across computer vision, RAG-based platforms, and IoT-integrated dashboards. I carry work from experimentation through to production — model optimization with TensorRT & ONNX, containerized deployments via Docker, and ML pipelines on Azure.
+
+Outside of tech, I'm a national-level swimmer. 🏊‍♂️
 
 ---
 
@@ -179,8 +180,6 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=supunabeywickrama&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supunabeywickrama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <div align="center">
