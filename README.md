@@ -14,10 +14,6 @@
   <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=supunabeywickrama&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
-
 <!-- Animated job ticks (alternating) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=%F0%9F%A7%A0+AI+%26+ML+Engineering%3B%F0%9F%A4%96+Robotics+Engineering%3B%E2%9A%A1+Embedded+AI+Engineering%3B%F0%9F%A6%BE+Automation+Engineering%3B%F0%9F%8C%90+IoT+Specialist%3B%F0%9F%91%81+Computer+Vision+Engineering%3B%F0%9F%94%AC+Research+and+Development+Engineering" alt="Alternating roles">
