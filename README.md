@@ -46,9 +46,14 @@ Outside of tech, I'm a national-level swimmer. 🏊‍♂️
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
@@ -65,6 +70,8 @@ Outside of tech, I'm a national-level swimmer. 🏊‍♂️
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
       <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
       <img src="https://img.shields.io/badge/Autoencoders-8A2BE2?style=for-the-badge&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LSTM-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA%20%2F%20PEFT-FF6F61?style=for-the-badge&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
     </td>
   </tr>
@@ -76,6 +83,7 @@ Outside of tech, I'm a national-level swimmer. 🏊‍♂️
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/YOLOv8%2F11%2F12-111F68?style=for-the-badge&logo=ultralytics&logoColor=white"/>
       <img src="https://img.shields.io/badge/YOLOv8--DocLayNet-1F6FEB?style=for-the-badge&logo=ultralytics&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ViT-4B0082?style=for-the-badge&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
       <img src="https://img.shields.io/badge/SAHI-FFB000?style=for-the-badge&logo=python&logoColor=black"/>
       <img src="https://img.shields.io/badge/SAM-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
@@ -92,8 +100,14 @@ Outside of tech, I'm a national-level swimmer. 🏊‍♂️
       <img src="https://img.shields.io/badge/LLM%20Chatbot-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CrewAI-FF5A1F?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Multi--Agent-4C1D95?style=for-the-badge&logo=semanticweb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GPT--4o-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Llama%203.2-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Qwen2--VL-615CED?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Prompt%20Engineering-1F2937?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HITL-374151?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/VLM-6F42C1?style=for-the-badge&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Multimodal%20Embedding-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vector%20Memory-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
@@ -106,12 +120,20 @@ Outside of tech, I'm a national-level swimmer. 🏊‍♂️
       <h3>☁️ Cloud, Databases & Auth</h3>
       <br />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
       <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
       <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ChromaDB-1C1C1C?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/OIDC%20%2F%20OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
     </td>
     <!-- Hardware, IoT & Embedded -->
     <td width="50%" align="center">
@@ -135,6 +157,8 @@ Outside of tech, I'm a national-level swimmer. 🏊‍♂️
       <img src="https://img.shields.io/badge/Mitsubishi%20PLC-E60012?style=for-the-badge&logo=mitsubishi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Ladder%20Logic-15803D?style=for-the-badge&logo=plcnext&logoColor=white"/>
       <img src="https://img.shields.io/badge/HMI%20Design-2563EB?style=for-the-badge&logo=siemens&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SCADA-15803D?style=for-the-badge&logo=siemens&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VFD-2563EB?style=for-the-badge&logo=siemens&logoColor=white"/>
       <img src="https://img.shields.io/badge/UiPath%20RPA-FE5000?style=for-the-badge&logo=uipath&logoColor=white"/>
       <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Fusion%20360-F37021?style=for-the-badge&logo=autodesk&logoColor=white"/>
@@ -147,6 +171,10 @@ Outside of tech, I'm a national-level swimmer. 🏊‍♂️
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
       <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
